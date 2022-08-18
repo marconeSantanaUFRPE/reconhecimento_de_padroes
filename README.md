@@ -1,0 +1,2 @@
+# reconhecimento_de_padroes
+reconhecimento_de_padroes
