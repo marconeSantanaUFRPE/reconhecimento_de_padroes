@@ -1,0 +1,2 @@
+tarefas que atrasaram = status não é final e hoje é maior que o prazo;
+ ou a ultima mudança de status foi depois do prazo

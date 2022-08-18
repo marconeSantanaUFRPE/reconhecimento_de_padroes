@@ -1,0 +1,586 @@
+﻿id,name,color,active
+1,Melhoria/Funcionalidade,#e3964f,1
+2,Defeito,#f7233c,1
+3,Tarefa,#00f0ff,1
+4,Physics Engine.,#f5d04c,1
+5,Physics Engine,#008000,1
+6,CadastroGrátis,#000000,1
+7,morno,#ff00ff,1
+8,defe,#00ffff,0
+9,taref,#ffff00,0
+10,Defeito do Cliente,#f7d24d,1
+11,analise suporte,#ff1493,1
+12,Erros Conhecidos,#663399,1
+13,Teste,#000080,0
+14,Tarefamelho,#8b4513,0
+15,UX/UI,#ff78d1,1
+16,Cash,#3300ff,1
+17,Time,#00ffa3,1
+18,Task,#ff0808,1
+19,Marketing,#eda00a,1
+20,retrospectiva,#059bf2,1
+21,defe,#16d984,0
+22,defe,#f5d04c,0
+23,defe,#008000,0
+24,defe,#000000,0
+25,android,#ff00ff,1
+26,bug,#00ffff,0
+27,production,#ffff00,1
+28,ios,#ffc0cb,1
+29,controlpanel,#7b14ff,1
+30,publish,#663399,1
+31,defe,#000080,0
+32,mekatronik,#8b4513,1
+33,flowuop,#8b0000,0
+34,flowup,#00a3ff,0
+35,leads,#d3d3d3,1
+36,RD,#696969,1
+37,"Site ",#ed0a0a,1
+38,SEO,#059bf2,1
+39,defe,#16d984,0
+40,webinar,#f5d04c,1
+41,design,#008000,1
+42,suporte,#ff0000,1
+43,defe,#ff00ff,0
+44,Elicitação de Requisito,#27b0b0,1
+45,cas,#ffff00,0
+46,taref,#ffc0cb,0
+47,Cadari,#ff1493,1
+48,Estimativa,#663399,1
+49,Testes Manuais,#000080,1
+50,defe,#8b4513,0
+51,Atualização de Escolas,#8b0000,1
+52,defe,#ff4500,0
+53,mel,#d3d3d3,0
+54,defe,#696969,0
+55,defe,#ed0a0a,0
+56,Gantt,#059bf2,1
+57,Kanban,#fff500,1
+58,White Label,#00fff0,1
+59,fluxodecaixa,#008000,1
+60,shippingservices,#000000,1
+61,WO Design,#ff00ff,1
+62,SONPEX,#00ffff,1
+63,luzems,#d1d132,1
+64,Criação,#29ffd8,1
+65,Script,#14c7ff,1
+66,H3M,#04d6f2,1
+67,shiplog,#000080,1
+68,Pendencia,#8b4513,1
+69,control,#8b0000,1
+70,teste,#ff4500,0
+71,modelo,#d3d3d3,1
+72,André,#696969,0
+73,defe,#ed0a0a,0
+74,Prioridade,#f20505,1
+75,stand by,#00ffc2,1
+76,neurotech,#c40a15,1
+77,Critério de Aceitação,#008000,1
+78,Planejado,#8ced11,1
+79,Não Planejado,#00b2ff,1
+80,customização,#ffb800,1
+81,estagio,#ffff00,1
+82,dev,#ffc0cb,1
+83,jr,#ff1493,1
+84,dispensado,#663399,1
+85,pl,#000080,1
+86,front,#72dae8,1
+87,UI,#09c2eb,1
+88,Processos,#ff9900,1
+89,Configurações,#d3d3d3,1
+90,tsak,#696969,0
+91,planejamento,#0a13ed,1
+92,Conteúdo,#059bf2,1
+93,Sistema,#16d984,1
+94,Relatórios,#f5d04c,1
+95,vídeos,#008000,1
+96,Conversã,#000000,0
+97,conversão,#ff00ff,1
+98,Módulo Produtos,#55bfbf,1
+99,Ebook,#ffff00,1
+100,Blog Post,#ffc0cb,1
+101,Email,#ff1493,1
+102,Automação de marketing,#663399,1
+103,Hidrante,#c71b1b,1
+104,Hidran,#8b4513,0
+105,Usabilidade,#8b0000,1
+106,tas,#ff4500,0
+107,poc,#d3d3d3,1
+108,automação,#696969,1
+109,teste,#0a76ed,1
+110,front-account,#059bf2,1
+111,casos de teste,#16d984,1
+112,multifilter,#f5d04c,1
+113,trace,#008000,1
+114,regras aceitação,#000000,1
+115,GAteway,#ff00ff,1
+116,DD,#00ffff,1
+117,Config,#ffff00,1
+118,Reports,#ffc0cb,1
+119,Test,#ff1493,1
+120,Portal,#663399,1
+121,Controle Interno,#000080,1
+122,Envex,#1ca121,1
+123,user story,#8b0000,1
+124,acceptance criteria,#ff4500,1
+125,planning poker,#d3d3d3,1
+126,sprint,#696969,1
+127,apr.02,#ed0a0a,1
+128,Integrado,#cc00ff,1
+129,Método,#16d984,1
+130,Marte Inovação,#f5d04c,1
+131,melho,#008000,0
+132,shipping service,#000000,1
+133,Topogeo,#4d9662,1
+134,Agência Vênus,#8e1cab,1
+135,Mobile,#e6e619,1
+136,Resolvo e Cia,#f72d50,1
+137,Atividade,#ff7dc3,1
+138,Adaptação,#663399,1
+139,Pesquisa,#000080,1
+140,Análise,#8b4513,1
+141,Networking,#8b0000,1
+142,Marketing de Conteúdo,#ff4500,1
+143,Customer Service,#d3d3d3,1
+144,Sugestões,#696969,0
+145,e-mail marketing,#450aed,1
+146,Conhecimento,#059bf2,1
+147,Novidade Cliente,#a9f7d5,1
+148,template,#f5d04c,1
+149,material,#008000,1
+150,Fora do escopo do projeto,#000000,1
+151,Importante,#ff00ff,1
+152,Falha,#ff001f,1
+153,Fast,#ffff00,1
+154,Mirador Assessoria Atuarial,#ffc0cb,1
+155,Chacon Engenharia,#ff0000,1
+156,não planej,#663399,0
+157,Portal dnata,#000080,1
+158,app cliente dnata,#8b4513,1
+159,app operacional dnata,#8b0000,0
+160,app operacional dnata,#ff4500,1
+161,verde,#109d1b,1
+162,Amarelo,#f7eb00,1
+163,Alteração,#ed0a0a,1
+164,vermelho,#f20505,1
+165,review,#16d984,1
+166,Ambienger,#f5d04c,1
+167,backend,#008000,1
+168,Dnata,#5bfccc,1
+169,medium,#ffa400,1
+170,high,#ff0b00,1
+171,defe,#ffff00,0
+172,low,#eff955,1
+173,api,#ff1493,0
+174,"API ",#663399,1
+175,mobile front,#000080,1
+176,casg,#8b4513,0
+177,dnatacare.0.5.0,#39c3f9,1
+178,dnatacare.0.4.1,#69d5f4,1
+179,dnatacare.0.4.0,#7ae4f9,1
+180,mediu,#696969,1
+181,dnatacare.0.6.0,#11b5d9,1
+182,ops,#059bf2,0
+183,release,#16d984,1
+184,dnatacare.0.6.1,#f5d04c,1
+185,dnatacare.0.6.2,#008000,1
+186,Conceito Engenharia,#000000,1
+187,dnatacare.0.7.0,#ff00ff,1
+188,dnatacare.0.7.1,#00ffff,1
+189,dnatacare.0.7.2,#ffff00,1
+190,hotfix,#ec1309,1
+191,dnatacare-app.0.1.0,#ff1493,1
+192,dnatacare.0.7.3,#663399,1
+193,dnatacare.0.8.0,#000080,1
+194,dnatacare.0.9.0,#8b4513,1
+195,dnatacare.0.9.1,#8b0000,1
+196,dnatacare.0.9.2,#ff4500,1
+197,dnatacare.0.9.3,#d3d3d3,1
+198,Urgente,#696969,1
+199,dnatacare.0.9.4,#ed0a0a,1
+200,dnatacare.0.9.5,#059bf2,1
+201,dnatacare-app.0.2.0,#16d984,1
+202,TKC,#f5d04c,1
+203,TCK,#008000,1
+204,Políticas de Trabalho,#000000,1
+205,dnatacare.0.9.6,#ff00ff,1
+206,dnatacare.0.9.7,#00ffff,1
+207,dnatacare-app.0.3.0,#ffff00,1
+208,dnatacare.0.9.8,#ffc0cb,1
+209,dnatacare.0.9.9,#ff1493,1
+210,dnatacare-app.0.4.0,#663399,1
+211,dnatacare.0.9.10,#000080,1
+212,0.9.10,#8b4513,0
+213,dnatacare-app.0.4.1,#8b0000,1
+214,dnatacare.0.9.11,#ff4500,1
+215,PSG Engenharia,#d3d3d3,1
+216,App,#696969,1
+217,dnatacare.0.9.12,#ed0a0a,1
+218,dnatacare-app.0.4.2,#059bf2,1
+219,dnatacare.0.9.13,#16d984,1
+220,dnatacare.0.9.14,#f5d04c,1
+221,dnatacare-app.0.4.3,#008000,1
+222,dnatacare.0.9.15,#000000,0
+223,dnatacare.0.10.0,#ff00ff,1
+224,0.1.0.,#00ffff,1
+225,dnatacare.0.10.1,#ffff00,1
+226,dnatacare-app.0.4.4,#ffc0cb,1
+227,Bug,#f70412,1
+228,Defar Engenharia,#663399,1
+229,dnatacare.0.10.2,#000080,1
+230,dnatacare.0.10.3,#8b4513,1
+231,dnatacare.0.10.4,#8b0000,1
+232,dnatacare-app.0.4.5,#ff4500,1
+233,dnatacare.0.10.5,#d3d3d3,1
+234,dnatacare.0.10.6,#696969,1
+235,tarefasrecorrentes,#ed0a0a,0
+236,Alrora,#059bf2,1
+237,aws,#16d984,1
+238,rds,#f5d04c,1
+239,ebs,#008000,1
+240,s3,#000000,1
+241,dnatacare-app.0.4.6,#ff00ff,1
+242,dnatacare-app.0.4.7,#00ffff,1
+243,0.10.7,#ffff00,1
+244,dnatacare.0.11.0,#ffc0cb,1
+245,dnatacare-app.0.5.0,#ff1493,1
+246,dnatacare-app.0.5.1,#663399,1
+247,dnatacare.0.12.0,#000080,1
+248,dnatacare.0.13.0,#8b4513,1
+249,Design OPS,#ff00a8,1
+250,comercial,#ff4500,1
+251,administrativo,#d3d3d3,1
+252,infraestrutura-geral,#696969,1
+253,gerencia-projetos,#ed0a0a,1
+254,flowup-marketing,#8cbedb,1
+255,infraestrutura-software,#16d984,1
+256,dnatacare.0.13.1,#f5d04c,1
+257,Palestrante,#008000,0
+258,Estrutura,#000000,1
+259,Palestrante,#ff00ff,1
+260,dnatacare.0.13.2,#00ffff,1
+261,functional bug,#ffff00,1
+262,handling error bug,#ffc0cb,1
+263,gui related bug,#ff1493,1
+264,control flow bug,#663399,1
+265,syntactic bug,#000080,1
+266,dnatacare,#8b4513,1
+267,dnatacare.0.13.3,#8b0000,1
+268,usability,#ff4500,1
+269,backnend,#d3d3d3,0
+270,pagamentocartao,#696969,1
+271,Newmar,#ed0a0a,1
+272,Agência Planos,#059bf2,1
+273,Agência Angulo,#16d984,1
+274,dnatacare.0.14.0,#f5d04c,1
+275,upgrade,#008000,1
+276,elastic beanstalk,#000000,1
+277,dnatacare-app.0.6.1,#ff00ff,1
+278,recurrent,#00ffff,1
+279,frontend,#ffff00,1
+280,dnatacare.0.15.0,#ffc0cb,1
+281,prod,#ff1493,1
+282,feature,#663399,1
+283,agencia pla,#000080,1
+284,functional testing,#8b4513,1
+285,spike,#8b0000,1
+286,dnatacare.0.16.0,#ff4500,1
+287,dnatacare.0.17.0,#d3d3d3,1
+288,dnatacare-app.0.7.0,#696969,1
+289,side-effect bug,#ed0a0a,1
+290,communication bug,#059bf2,1
+291,dnatacare-app.0.8.1,#16d984,1
+292,missing commands,#f5d04c,1
+293,dnatacare-app.1.0.0,#008000,1
+294,dnata Care,#000000,0
+295,Design Time,#ff00ff,1
+296,Queiroz Cavalcanti,#00ffff,1
+297,dnatacare.0.18.0,#ffff00,1
+298,dnatacare.0.19.0,#ffc0cb,1
+299,doc,#ff1493,1
+300,não planejada,#663399,0
+301,Geopac,#000080,1
+302,dnatacare.0.20.0,#8b4513,1
+303,dnatacare.0.21.0,#8b0000,1
+304,dnatacare.0.22.0,#ff4500,1
+305,dnatacare.0.23.0,#d3d3d3,1
+306,dnatacare-app.1.1.0,#696969,1
+307,dnatacare.0.24.0,#ed0a0a,1
+308,dnatacare-app.1.2.0,#059bf2,1
+309,integração,#16d984,1
+310,dnatacare-app.1.3.0,#f5d04c,1
+311,dnatacare.0.25.0,#008000,1
+312,],#000000,0
+313,dnatacare-app.1.4.0,#ff00ff,1
+314,dnatacare.1.0.0,#00ffff,1
+315,improvement related bug,#ffff00,1
+316,dnatacare.1.1.0,#ffc0cb,1
+317,Relatório de Tarefas,#ff1493,1
+318,dnatacare-app.1.4.1,#663399,1
+319,jmc automação,#000080,1
+320,evento,#8b4513,1
+321,agora,#8b0000,1
+322,SOIEJ,#ff4500,1
+323,GOL,#d3d3d3,1
+324,UX,#696969,1
+325,dashboard,#ed0a0a,1
+326,usabili,#059bf2,0
+327,Agência Vella,#16d984,1
+328,Agência,#f5d04c,1
+329,SSC,#008000,1
+330,"R5 Soluções Tecnológicas ",#000000,1
+331,R2,#ff00ff,1
+332,restrições,#00ffff,1
+333,tas,#ffff00,0
+334,Fablab,#ffc0cb,1
+335,VJ Automação,#ff1493,1
+336,testefront,#663399,0
+337,teste2,#000080,1
+338,teste 3,#8b4513,1
+339,teste5,#8b0000,1
+340,Lemon Projetos,#ff4500,1
+341,edffddf,#d3d3d3,0
+342,Fa,#696969,0
+343,abc,#ed0a0a,0
+344,aoddf,#059bf2,0
+345,Unplanned,#ff0000,1
+346,Planned,#009e06,0
+347,Flowup-mar,#008000,0
+348,flowup-marke,#000000,0
+349,flowup-markef,#ff00ff,0
+350,flowup-m,#00ffff,0
+351,f,#ffff00,0
+352,Agência caap,#ffc0cb,1
+353,Agência capp,#ff1493,1
+354,GRMarket,#663399,1
+355,Sob Medida,#000080,1
+356,HMS,#8b4513,1
+357,Instagram,#8b0000,0
+358,flowu,#ff4500,0
+359,Instagram,#c20124,1
+360,Alexandre Nasce Design,#696969,1
+361,flowup-,#ed0a0a,0
+362,instagran,#059bf2,0
+363,Ina,#16d984,1
+364,Flowup-,#f5d04c,0
+365,flowup-m,#008000,0
+366,flowp-marketing,#000000,0
+367,flowup-mkar,#ff00ff,0
+368,flowup-instagram,#00ffff,0
+369,flowup-,#ffff00,0
+370,flowup-marketingf,#ffc0cb,0
+371,flowup,#148eff,1
+372,Indeferido,#663399,1
+373,DFA,#000080,1
+374,Agência R3 Mkt Digital,#8b4513,1
+375,sdfsd,#8b0000,0
+376,Melhoria,#ff4500,1
+377,Pendente,#ff0000,1
+378,Flowup-site,#0478ff,1
+379,Google Ads,#fa00ff,1
+380,Avulso,#059bf2,1
+381,Testar,#16d984,0
+382,vídeo,#f5d04c,1
+383,Feed,#008000,1
+384,Stories,#000000,1
+385,meme,#ff00ff,1
+386,R3,#00ffff,1
+387,Não plan,#ffff00,0
+388,Urge,#ffc0cb,0
+389,não planejada,#ff1493,0
+390,8 to One Marketing e Comunicação,#663399,1
+391,Urgen,#000080,0
+392,Não planje,#8b4513,0
+393,agencia de mkt,#8b0000,1
+394,não plane,#ff4500,0
+395,Alva Consultoria,#d3d3d3,1
+396,D'amoreira,#696969,1
+397,IPR Mind Solution,#ed0a0a,1
+398,Paiva E Bispo Arquitetura,#059bf2,1
+399,BBG,#ffad0d,1
+400,"Joyweb	",#f5d04c,1
+401,App field service,#001480,1
+402,API field service,#eb102b,1
+403,app field,#ff00ff,1
+404,planjeado,#00ffff,0
+405,Rebe,#ffff00,1
+406,Flowup-App,#ffc0cb,1
+407,Web2Duo,#ff1493,1
+408,mobie,#663399,1
+409,Mobi,#000080,1
+410,Nao planejado,#8b4513,0
+411,TellMe,#ff4d00,1
+412,Não planejada,#53a9eb,0
+413,Planejamento Fast,#2101fe,1
+414,Youtube,#ff0028,1
+415,Não planejad,#ed0a0a,0
+416,Desafio,#059bf2,1
+417,Avocado,#16d984,1
+418,NOXTEC,#f5d04c,1
+419,Performance,#008000,1
+420,Planejada,#8ced11,1
+421,taref,#ff00ff,0
+422,Não,#00ffff,0
+423,taref,#ffff00,0
+424,tarfe,#ffc0cb,1
+425,"Helenilson ",#ff1493,1
+426,SILVA SERVIÇOS EMPRESARIAIS,#663399,1
+427,Conteúdo Fast,#40d6fe,1
+428,Conteúdo FlowUp,#0d38ff,1
+429,plane,#8b0000,0
+430,Tradução,#ff4500,1
+431,backed,#d3d3d3,0
+432,backe,#696969,0
+433,RO,#ed0a0a,1
+434,Function,#059bf2,1
+435,fronted,#16d984,0
+436,"Knowledge ",#f5d04c,0
+437,Knowledge Base,#fb8bab,1
+438,front-end,#000000,1
+439,fronten,#ff00ff,0
+440,fronte,#00ffff,0
+441,Bira,#ffff00,0
+442,SANEST PROJETOS E CONSULTORIA,#ffc0cb,1
+443,Agência Flutue,#ff1493,1
+444,f,#663399,0
+445,Não plenjado,#000080,0
+446,tarefas,#8b4513,0
+447,Refatoração de código,#8b0000,1
+448,Defeitos,#ff4500,1
+449,não plane,#d3d3d3,0
+450,flowip,#696969,0
+451,funcionalidade,#ed0a0a,1
+452,Bureau Works,#059bf2,1
+453,DGAZ Marketing,#16d984,1
+454,"Inove Consultoria Ambiental	",#f5d04c,1
+455,MMB IT SOLUTIONS,#008000,1
+456,Melhoiria,#000000,0
+457,NaoPlanejado,#ff00ff,0
+458,Excelsior,#00ffff,1
+459,Lar Arquitetura,#ffff00,1
+460,aaaaaa,#ffc0cb,0
+461,Homrich Engenharia,#ff1493,1
+462,VECTORWORK,#663399,1
+463,planeja,#000080,0
+464,senior,#8b4513,1
+465,fullstack,#8b0000,1
+466,treinee,#ff4500,1
+467,trainee,#d3d3d3,1
+468,fulllstack,#696969,1
+469,defeit,#ed0a0a,0
+470,pleno,#059bf2,1
+471,pleno/senior,#16d984,1
+472,Defe,#f5d04c,0
+473,Estud,#008000,1
+474,Estudos,#000000,1
+475,tar,#ff00ff,1
+476,Não Planejada,#00b2ff,1
+477,pl/sr,#ffff00,1
+478,engenheiro de teste,#ffc0cb,1
+479,vivix,#ff1493,1
+480,RMC ENGENHARIA,#663399,1
+481,Itana Lemos,#000080,1
+482,web,#8b4513,1
+483,atualização,#8b0000,1
+484,analista de suporte,#ff4500,1
+485,SDR-estágio,#d3d3d3,1
+486,DF,#696969,1
+487,MaxFalcon,#ed0a0a,1
+488,Técnico de inspeção,#059bf2,1
+489,Usuário,#16d984,1
+490,Gerente de inspeção,#f5d04c,1
+491,Supervisor de inspeção,#008000,1
+492,Serviço-RO,#000000,1
+493,[defeito,#ff00ff,0
+494,Não plan,#00ffff,0
+495,Frontend - Backoffce,#ffff00,0
+496,Melh,#ffc0cb,1
+497," IMOVEIS DE FATO ARQUITETURA",#ff1493,1
+498,Frente Integração,#663399,1
+499,Frente Aplicativo,#000080,1
+500,Peatonal Inteligência Urbana,#8b4513,1
+501,Clikss Brasil,#8b0000,1
+502,Fluxo de Trabalho,#ff4500,1
+503,devops,#d3d3d3,1
+504,Responsividade,#696969,1
+505,Animação,#ed0a0a,1
+506,Forntend: Backoffice,#059bf2,0
+507,Frontend: Backoffice,#16d984,1
+508,comida invisivel,#f5d04c,1
+509,Não pla,#008000,0
+510,Elife - Cxpress,#000000,1
+511,H+ Arquitetura & Co,#ff00ff,1
+512,Qualitytax,#00ffff,1
+513,back,#ffff00,1
+514,bugs,#ffc0cb,1
+515,Impedimento,#ff1493,1
+516,Epic,#663399,1
+517,Não conformidade,#000080,1
+518,não planeja,#8b4513,1
+519,SDR,#8b0000,1
+520,Takeda,#ff4500,1
+521,Notificações,#d3d3d3,1
+522,defei,#696969,0
+523,Conceito Prime,#ed0a0a,1
+524,Jars,#059bf2,1
+525,Sem estimativa,#16d984,1
+526,backe,#f5d04c,1
+527,mvp,#008000,1
+528,v2,#000000,1
+529,Issue,#ff00ff,1
+530,KC Arquitetura,#00ffff,1
+531,Reunião,#ffff00,1
+532,veríssimo,#ffc0cb,1
+533,Lemarc,#ff1493,1
+534,bakcend,#663399,1
+535,Fazenda Cheia,#000080,1
+536,Não Planejadmelhor,#8b4513,1
+537,infra,#8b0000,1
+538,Engecell,#ff4500,1
+539,Especialista Digital,#d3d3d3,1
+540,Mais Dois Arquitetura,#696969,1
+541,SHAMAH ARQUITETURA LTDA,#ed0a0a,1
+542,Jarsdesign,#059bf2,1
+543,defe,#16d984,0
+544,Agencia Exo,#f5d04c,1
+545,Dimensão20,#008000,1
+546,Profecttum Comércio de Móveis,#000000,1
+547,ajustes,#ff00ff,1
+548,fronent,#00ffff,1
+549,FUTURA ARQUITETOS ASSOCIADOS,#ffff00,1
+550,aprovado,#ffc0cb,1
+551,Testado,#ff1493,1
+552,mendix,#663399,1
+553,Impeditivo,#000080,1
+554,Askdata Tecnologia,#8b4513,1
+555,Contabil/Financeiro,#8b0000,1
+556,Departamento P,#ff4500,1
+557,Departamento Pessoal,#d3d3d3,1
+558,Regras de Negócio,#696969,1
+559,Melhorias,#ed0a0a,1
+560,Regra de Negócio,#059bf2,1
+561,Corrigido,#16d984,1
+562,testado/corrigido,#f5d04c,1
+563,Defeitod,#008000,0
+564,Requisitos,#000000,0
+565,Meeting,#ffad0d,1
+566,QA,#00ffff,1
+567,Mensal,#ffff00,1
+568,Defeios,#ffc0cb,0
+569,Quinzenal,#ff1493,1
+570,estágio dev,#663399,1
+571,estagio dev,#000080,1
+572,estagio financeiro,#8b4513,1
+573,CO-Parceiros,#8b0000,1
+574,fronten,#ff4500,1
+575,AT ARQUITETURA,#d3d3d3,1
+576,Observatório Agência Criativa,#696969,1
+577,Agência 360,#ed0a0a,1
+578,novo-layout,#059bf2,1
+579,US011,#16d984,1
+580,US010,#f5d04c,1
+581,US008,#008000,1
+582,US014,#000000,1
+583,N,#ff00ff,1
+584,US001,#00ffff,1
+585,Lex,#ffff00,1
