@@ -126,6 +126,8 @@ def experiencia():
          linha = (id + "," + intervalo + "," + estimativa +","+ str(nota) +","+totalsub+","+urgente+"," + alta +","+tempoGasto+","+classe)
          tasksSemExp.write(linha)
 
-experiencia()
-binarizacao()
-mergearDados()
+
+if __name__ == "__main__":
+    experiencia()
+    binarizacao()
+    mergearDados()
