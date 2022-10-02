@@ -1,0 +1,5 @@
+metric:manhattan
+n_neighbors:24
+weights:distance
+
+0.7315658958252915

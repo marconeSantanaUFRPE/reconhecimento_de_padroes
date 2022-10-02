@@ -1,21 +1,44 @@
-from sklearn import neighbors, datasets, preprocessing
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import pandas as pd
 
-iris = datasets.load_iris() 
-X, y = iris.data[:, :], iris.target
-Xtrain, Xtest, y_train, y_test = train_test_split(X, y, stratify = y, random_state = 0, train_size = 0.7)
+from sklearn import datasets
+from sklearn.decomposition import PCA
 
-scaler = preprocessing.StandardScaler().fit(Xtrain)
-Xtrain = scaler.transform(Xtrain)
-Xtest = scaler.transform(Xtest)
+baseDados = pd.read_csv('csv/dataframe.csv')
+print(baseDados)
+y = baseDados['classe'].to_numpy()
+del baseDados['classe']
+del baseDados['intervalo']
+del baseDados['responsavel']
+del baseDados['totalsub']
+del baseDados['prioridade']
+del baseDados['minutos']
+del baseDados['estimativa']
 
-knn = neighbors.KNeighborsClassifier(n_neighbors=3)
-knn.fit(Xtrain, y_train)
-y_pred = knn.predict(Xtest)
+del baseDados['id']
+X = baseDados.to_numpy().reshape(4914,58)
+target_names = ['classe', 'regular']
+pca = PCA(n_components=2)
+X_r = pca.fit(X).transform(X)
 
-print(accuracy_score(y_test, y_pred))
-print(classification_report(y_test, y_pred))
-print(confusion_matrix(y_test, y_pred))
+
+
+# Percentage of variance explained for each components
+print(
+    "explained variance ratio (first two components): %s"
+    % str(pca.explained_variance_ratio_)
+)
+
+plt.figure()
+colors = ["navy", "turquoise"]
+lw = 2
+
+for color, i, target_name in zip(colors, [0, 1], target_names):
+    plt.scatter(
+        X_r[y == i, 0], X_r[y == i, 1], color=color, alpha=0.8, lw=lw, label=target_name
+    )
+plt.legend(loc="best", shadow=False, scatterpoints=1)
+plt.title("PCA Teste")
+
+
+plt.show()

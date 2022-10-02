@@ -1,59 +1,16 @@
 ﻿id,name,taskcount
-1,Melhoria/Funcionalidade,3010
-2,Defeito,3843
-3,Tarefa,2023
-10,Defeito do Cliente,392
-15,UX/UI,130
-16,Cash,357
-17,Time,63
-18,Task,392
-25,android,76
-28,ios,40
-38,SEO,36
-76,neurotech,97
-78,Planejado,4360
-79,Não Planejado,4084
-81,estagio,38
-82,dev,41
-86,front,109
-92,Conteúdo,35
-95,vídeos,31
-109,teste,43
-111,casos de teste,33
+1,Melhoria/Funcionalidade,3108
+2,Defeito,3942
+3,Tarefa,2092
+10,Defeito do Cliente,421
+16,Cash,358
+18,Task,395
+78,Planejado,4384
+79,Não Planejado,4091
 135,Mobile,617
-153,Fast,108
-167,backend,758
-169,medium,215
+167,Backend,848
 170,high,345
-177,dnatacare.0.5.0,37
-179,dnatacare.0.4.0,36
-183,release,59
-185,dnatacare.0.6.2,75
-187,dnatacare.0.7.0,66
-194,dnatacare.0.9.0,31
-198,Urgente,151
-199,dnatacare.0.9.4,33
-208,dnatacare.0.9.8,57
-227,Bug,69
-254,flowup-marketing,264
-260,dnatacare.0.13.2,34
-261,functional bug,54
-263,gui related bug,43
-266,dnatacare,83
-279,frontend,767
-287,dnatacare.0.17.0,32
-303,dnatacare.0.21.0,34
-311,dnatacare.0.25.0,32
-345,Unplanned,61
-371,flowup,141
-376,Melhoria,36
-399,BBG,75
-411,TellMe,65
-420,Planejada,437
-427,Conteúdo Fast,120
-428,Conteúdo FlowUp,199
-438,front-end,45
-448,Defeitos,109
-468,fulllstack,31
-476,Não Planejada,271
-565,Meeting,61
+279,frontend,825
+420,Planejada,622
+476,Não Planejada,508
+0,Outros,12855

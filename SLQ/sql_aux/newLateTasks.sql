@@ -34,6 +34,4 @@ SELECT Tasks.Id, Tasks.EndDate as 'Prazo',tasks.StartDate,tasks.EstimatedEffort 
 
 
 
-  
-  select * from cash.[fast].Status
-    select * from cash.[fast].StatusTemplates
+ 

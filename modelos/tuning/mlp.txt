@@ -1,0 +1,7 @@
+activation:relu
+alpha:0.05
+hidden_layer_sizes:(20,)
+learning_rate:constant
+solver:adam
+
+0.6300084219391515

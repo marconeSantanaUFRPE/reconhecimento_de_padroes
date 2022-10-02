@@ -1,0 +1,7 @@
+criterion:entropy
+max_depth:10
+min_impurity_decrease:0.005
+min_samples_leaf:2
+min_samples_split:2
+
+0.6960171246096081
